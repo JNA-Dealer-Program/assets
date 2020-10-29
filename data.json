@@ -1,0 +1,53 @@
+{
+    "news": {
+        "heading": "Medicare blog",
+        "data": [
+            {
+                "id": "1",
+                "link": "https://www.go-jek.com/blog/pre-registration-for-drivers-in-singapore-commences/",
+                "image": "https://www.medicareservice.net/public/uploads/original/1603907521.jpg",
+                "name": "Medicare Frequently Asked Questions",
+                "date": " OCTOBER 29, 2018",
+                "text": "You may have any concerns if you or a loved one has just signed up for Medicare or is hoping to sign up soon. Those issues may include: What's covered by Medicare? What Medicare coverage is going to cover my prescription medication? How much would it be for my monthly Medicare expenses?",
+                "mainBanner": true
+            }, {
+                "id": "2",
+                "link": "/whats-the-difference-medicare-and-medicaid",
+                "image": "https://www.medicareservice.net/public/uploads/thumb/1603823012.jpg",
+                "name": "What's the Difference between Medicare and Medicaid?",
+                "date": " OCTOBER 4, 2018",
+                "text": "Medicare and Medicaid are U.S. government-sponsored services intended to help American citizens pay healthcare costs. These two programs, founded in 1965 and subsidized by taxpayers, have similar-sounding names, which may create confusion about how they operate and the coverage they provide.",
+                "mainBanner": false
+            },
+            {
+                "id": "3",
+                "link": "/whats-the-difference-medicare-and-medicaid",
+                "image": "https://www.medicareservice.net/public/uploads/thumb/1603733849.jpg",
+                "name": "Get to know the basics of Medicare Supplement Insurance",
+                "date": " OCTOBER 4, 2018",
+                "text": "Medicare Supplement Insurance, also known as Medigap, is an alternative or adds on to Original Medicare (Part A and B) private health insurance. It helps pay for 20 percent of the costs of Medicare not covered by Original Medicare.",
+                "mainBanner": false
+            }
+            ,
+            {
+                "id": "4",
+                "link": "/whats-the-difference-medicare-and-medicaid",
+                "image": "https://www.medicareservice.net/public/uploads/thumb/1603231072.jpg",
+                "name": "What will it Cost You When you Join Medicare?",
+                "date": " OCTOBER 4, 2018",
+                "text": "Medicare Part A (Hospital Insurance) is largely funded by a percentage tax on wages earned by employers and workers. Higher-income taxpayers pay a higher payroll tax on earnings (more than $200,000 / individual and $250,000 / pair). ",
+                "mainBanner": false
+            }
+            ,
+            {
+                "id": "5",
+                "link": "/whats-the-difference-medicare-and-medicaid",
+                "image": "https://www.medicareservice.net/public/uploads/thumb/1603925127.jpg",
+                "name": "How to Choose a Health Insurance Plan in 4 Easy Steps",
+                "date": " OCTOBER 4, 2018",
+                "text": "Time is usually limited to find the right health insurance package for your family, but it can be expensive to hurry and you may choose the wrong one. Here's a guide on how to choose a health insurance plan for your family. ",
+                "mainBanner": false
+            }
+        ]
+    }
+}
